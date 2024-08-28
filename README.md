@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" height="300" src="logo.png">
+</p>
+
 # Nixssau - Distribuição Linux NIX-Compliant para as necessidades dos alunos nas áreas de T.I da Uninassau.
 ## Uma realização de sistema de código aberto com ambiente de desenvolvimento padronizado para computadores pessoais e do laboratório de T.I da Universidade.
 
