@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="logo.png">
+  <img width="300" height="300" src="logo.svg">
 </p>
 
 # Nixssau - Distribuição Linux NIX-Compliant para as necessidades dos alunos nas áreas de T.I da Uninassau.
