@@ -22,7 +22,7 @@ Aqui está o status atual das funcionalidades planejadas/implementadas para o Ni
 - [ ] Sandbox com Docker ou Kubernetes
 - [ ] SELinux ativado por padrão
 - [ ] Secure Boot opcional
-- [ ] Licença GPLv2
+- [ ] Licença AGPLv2
 - [ ] Código-fonte disponível no GitHub
 
 ## Introdução
